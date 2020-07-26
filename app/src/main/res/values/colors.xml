@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorText">#000000</color>
+    <color name="colorSecondary">#FFFFFF</color>
+    <color name="colorPrimary">#1D99EC</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#333</color>
+    <color name="bg_transp_lgt">#CDDDDDDD</color>
+    <color name="bg_transp_drk">#CD333333</color>
+    <color name="success">#BAE987</color>
+    <color name="colorCurrent">#93D2F3</color>
+</resources>
